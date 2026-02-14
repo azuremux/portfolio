@@ -1,6 +1,0 @@
-1. open terminal (done this)
-2. Type claude in the terminal and press enter (done this)
-3. when the prompt opens up, start typing on what you want to make (start typing)
-4. On the initial prompt, make sure to provide what frameworks you want to use. The one I recommend most is doing it in nextjs and using shadcn libraries for the entire project. Give it all the projects you want to include as part of the information for your portfolio. tell it all about the work you've done, a bio about you, and maybe some information from your linkedin. 
-5. Make sure to include "Using your frontend skills" if you want it to make unique designs that dont look like AI.
-6. once it has coded it you can to npm run dev and look at what its madeyou 
