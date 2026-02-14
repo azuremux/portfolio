@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run build:*)",
+      "Bash(pkill:*)",
+      "WebFetch(domain:dribbble.com)",
+      "Bash(npx next build:*)",
+      "Bash(sips:*)",
+      "Bash(ffprobe:*)",
+      "Bash(brew list:*)",
+      "Bash(brew install:*)",
+      "Bash(python3:*)",
+      "Bash(avconvert:*)",
+      "Bash(ls:*)",
+      "Bash(for dir in portfolio-atelier portfolio-bloom portfolio-breeze portfolio-soleil)",
+      "Bash(do ls \"/Users/azure_malm/Documents/portfolio/$dir/public/projects/blackbird/\")",
+      "Bash(echo:*)",
+      "Bash(done)",
+      "Bash(pip3 install:*)"
+    ]
+  }
+}
